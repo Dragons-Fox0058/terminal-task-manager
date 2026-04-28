@@ -1,25 +1,80 @@
-# terminal-task-manager
-Simple terminal-based task manager with multi-language support and persistent storage. | Çok dilli desteğe ve kalıcı depolamaya sahip, terminal tabanlı basit bir görev yöneticisi. | Un gestor de tareas sencillo, basado en terminal, con soporte multilingüe y almacenamiento persistente.
-# What is this app used for?
-This application:
-Has a classic terminal interface.
-Is a lightweight application, measuring 8-10 MB.
-Is being gradually rolled out worldwide with 3 language options.
-# Bu uygulama ne işe yarıyor? 
-Bu uygulama:
-Klasik bir terminal arayüzüne sahiptir.
-8-10 MB boyutunda, hafif bir uygulamadır.
-3 dil seçeneğiyle kademeli olarak dünya çapında kullanıma sunulmaktadır.
-# ¿Para qué se utiliza esta aplicación?
-Esta aplicación:
-Tiene una interfaz de terminal clásica.
-Es una aplicación ligera, con un tamaño de entre 8 y 10 MB.
-Se está implementando gradualmente a nivel mundial con 3 opciones de idioma.
-# How to use?
-Easy to use, learn it yourself :)
-# Nasıl Kullanılır?
-Kullanımı kolay, kendiniz öğrenin :)
-# ¿Cómo utilizar?
-¡Fácil de usar, apréndelo tú mismo!
+# ENGLİSH
+
+# What are the features of this application?
+
+This application provides a simple and classic interface by using a terminal-based UI.  
+It is designed as a download-and-use application.
+
+With this application, you can:
+- Add / delete tasks  
+- Mark tasks as completed  
+- Change the language  
+
+---
+
+# Why this application?
+
+There are many note-taking applications on the market, but most of them:
+- Take up more space (compared to our application)  
+- Can be complicated at times, while ours is extremely simple  
+
+---
+
+# You can also contribute!
+
+Since this application is developed in Python, you can easily modify it, add new features, and share it (as long as you follow the MIT License).
+
+# ESPAÑOL
+
+# ¿Cuáles son las características de esta aplicación?
+
+Esta aplicación ofrece una interfaz simple y clásica utilizando una interfaz de terminal.  
+Está diseñada para ser descargada y utilizada fácilmente.
+
+Con esta aplicación puedes:
+- Añadir / eliminar tareas  
+- Marcar tareas como completadas  
+- Cambiar el idioma  
+
+---
+
+# ¿Por qué esta aplicación?
+
+Hay muchas aplicaciones para tomar notas en el mercado, pero la mayoría:
+- Ocupan más espacio (en comparación con nuestra aplicación)  
+- Pueden ser complicadas, mientras que esta es extremadamente simple  
+
+---
+
+# ¡Tú también puedes contribuir!
+
+Dado que esta aplicación está desarrollada en Python, puedes modificarla fácilmente, añadir nuevas funciones y compartirla (siguiendo la licencia MIT).
+
+# TÜRKÇE 
+
+# Bu uygulamanın özellikleri nelerdir?
+
+Bu uygulama, terminal tabanlı arayüz kullanarak sade ve klasik bir deneyim sunar.  
+İndir ve kullan mantığıyla tasarlanmıştır.
+
+Bu uygulama ile şunları yapabilirsiniz:
+- Görev ekleme / silme  
+- Görevleri tamamlandı olarak işaretleme  
+- Dil değiştirme  
+
+---
+
+# Neden bu uygulama?
+
+Piyasada birçok not alma uygulaması bulunmaktadır, ancak çoğu:
+- Daha fazla yer kaplar (bizim uygulamamıza göre)  
+- Zaman zaman karmaşık olabilir, bu uygulama ise oldukça basittir  
+
+---
+
+# Siz de katkıda bulunabilirsiniz!
+
+Bu uygulama Python ile geliştirildiği için kolayca düzenleyebilir, yeni özellikler ekleyebilir ve (MIT Lisansı'na uyarak) paylaşabilirsiniz.
+
 
 Copyright (c) 2026 Dragons-Fox0058
