@@ -77,4 +77,9 @@ Piyasada birçok not alma uygulaması bulunmaktadır, ancak çoğu:
 Bu uygulama Python ile geliştirildiği için kolayca düzenleyebilir, yeni özellikler ekleyebilir ve (MIT Lisansı'na uyarak) paylaşabilirsiniz.
 
 
+# UYGULAMA GÜNCELLEME ALMAYI KESMİŞTİR.
+# THE APP HAS STOPPED RECEIVING UPDATES.
+# LA APLICACIÓN HA DEJADO DE RECIBIR ACTUALIZACIONES.
+
+
 Copyright (c) 2026 Dragons-Fox0058
